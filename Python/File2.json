@@ -1,0 +1,44 @@
+{
+    "address": [
+        {
+            "country": "Ukraine",
+            "region": "Kharkivska",
+            "city": "Kharkiv",
+            "street": "Sumska",
+            "house": 1,
+            "flat": 1
+        },
+        {
+            "country": "Ukraine",
+            "region": "Kharkivska",
+            "city": "Kharkiv",
+            "street": "Privokzalna",
+            "house": 2,
+            "flat": 10
+        },
+        {
+            "country": "Ukraine",
+            "region": "Kharkivska",
+            "city": "Kharkiv",
+            "street": "Skovorody",
+            "house": 11,
+            "flat": 112
+        },
+        {
+            "country": "Ukraine",
+            "region": "Kharkivska",
+            "city": "Kharkiv",
+            "street": "Naberezhna",
+            "house": 9,
+            "flat": 21
+        },
+        {
+            "country": "Ukraine",
+            "region": "Kharkivska",
+            "city": "Kharkiv",
+            "street": "Sumska",
+            "house": 9,
+            "flat": 11
+        }
+    ]
+}
