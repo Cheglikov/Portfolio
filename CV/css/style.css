@@ -1,0 +1,223 @@
+body {
+background-color: #e5e5e5;
+padding: 54px 40px 24px 40px;
+font-family: 'Montserrat', sans-serif;
+}
+
+.wrapper{
+    display: flex;
+    flex-direction: row-reverse;
+    background: #ffffff;
+    width: 1200px;
+    height: 1320px;
+    margin: 0 auto;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    
+}
+
+.sidebar{
+    background: #ffffff;
+    width: 2100px;
+}
+
+.profession{
+    background: #ffffff;
+    width: 1200px;
+    height: 120px;
+    margin: 0 auto;
+    padding: 16px 0px 8px 0px;
+
+}
+
+.my-photo{
+    margin-top: 40px;
+
+}
+
+.contacts-container, .languages-container, .education-container, .courses-container, .hobbies-container, .skills-container{
+margin: 8px 0px 0px 40px;
+
+}
+
+.my-profession{
+    margin: 8px 0px 8px 0px;
+    padding: 0px 0px 0px 40px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
+
+.my-name{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000000;
+    margin: 8px 0px 4px 0px;
+    padding: 0px 0px 0px 40px;
+}
+
+.my-descr{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    
+}
+
+.about-me{
+    margin-bottom: 12px;
+}
+
+
+
+
+.work-expirience-position{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+    margin: 0;
+}
+
+.main-content-title, .tech-skills-title, .summary-title{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 10px;
+    color: #000000;
+    margin: 0 0 8px 0;
+}
+.work-expirience-container, .tech-skills-container{
+    margin-bottom: 12px;
+}
+
+.university{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+    margin: 12px 0 12px 0;
+
+}
+
+.edication-position{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin: 12px 0 12px 0;
+}
+
+.work-expirience-place{
+    margin-bottom: 12px;
+}
+
+.work-expirience-company{
+    color: #6D9BF5;
+}
+
+.work-period{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+    margin: 12px 0 8px 0;
+}
+
+.work-duties{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.work-duties-list{
+    padding: 0 0 0 20px;
+    margin: 0;
+}
+
+.main-content{
+padding: 32px;
+
+}
+
+.contacts-type{
+
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+color: #161D2A;
+margin-right: 2px;
+
+}
+
+.contacts-item{
+    margin: 0;
+}
+
+
+
+.sidebar-title{
+    font-style: normal;
+    font-weight: 700;   
+    font-size: 22px;
+    line-height: 30px;
+    margin-bottom: 2px;
+    color: #161D2A;
+   }
+
+.skills-list-item{
+    color: #000000;
+    }   
+
+  
+.skills-list{
+    margin: 0;
+    padding: 0 0 0 24px;
+    }
+
+.skills-list-text{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #161D2A;
+    }
+
+
+
+
+.languages-list-text, .courses-list-text, .hobbies-list-text, .tech-skills-text{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #161D2A;
+    }
+
+.languages-list-item, .courses-list-item, .hobbies-list-item, .tech-skills-item{
+    color: #000000;
+    }   
+
+.languages-list, .contacts-list, .couses-list, .hobbies-list, .tech-skills-list{
+    margin: 0;
+    padding: 0 0 0 24px;
+    }
+
+
+
+.contacts-item{
+    color: #000000;
+    }   
+
+
